@@ -87,7 +87,7 @@
                                 </div>
                                 <div class="form-group col-md-12">
                                     <select name="subject" id="subject" class="form-select dcd3d3">
-                                        <option value="" disabled="" selected="" hidden="">Select Subject</option>
+                                      <option value="" disabled="" selected="" hidden="">Select Subject</option>
                                         <option value="Ux/UI Designing">UI/UX Designing</option>
                                         <option value="Web Development">Web Development</option>
                                         <option value="Mobile App Development">Mobile App Development</option>
@@ -110,7 +110,7 @@
                                     <i class="fal fa-comment"></i>
                                 </div>
                                 <div class="form-btn text-xl-start text-center col-12">
-                                    <button class="th-btn">Send Message<i
+                                    <button class="btn shadow-none sideMenuToggler appointment-btn">Send Message<i
                                             class="fa-regular fa-arrow-right ms-2"></i></button>
                                 </div>
                             </div>

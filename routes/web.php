@@ -18,7 +18,7 @@ Route::get('services', function () {
     return view('services');
 })->name('services_page');
 
-Route::get('home', function () {
+Route::get('/', function () {
     return view('index-2');
 })->name('home_page');
 

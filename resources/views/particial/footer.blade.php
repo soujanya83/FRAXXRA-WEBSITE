@@ -122,7 +122,7 @@
                 <div class="row justify-content-between align-items-center">
                     <div class="col-lg-6">
                         <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2025 <a
-                                href="index-2">fraxxra.com</a> All Rights Reserved.</p>
+                                href="index-2"><span style="color:aqua">https://fraxxra.com</span> </a> All Rights Reserved.</p>
                     </div>
                     <div class="col-lg-6 text-end d-none d-lg-block">
                         <div class="footer-links">

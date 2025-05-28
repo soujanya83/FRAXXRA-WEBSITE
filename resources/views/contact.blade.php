@@ -1,4 +1,17 @@
 @include('particial.header')
+<style>
+    .appointment-btn {
+        background-color: #417f8e;
+        color: white;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+    .appointment-btn:hover {
+        background-color: black;
+        color: white;
+    }
+</style>
 <body>
 
 
@@ -105,7 +118,7 @@
                                     <i class="fal fa-comment"></i>
                                 </div>
                                 <div class="form-btn text-xl-start text-center col-12">
-                                    <button class="th-btn">Send Message<i
+                                    <button class="btn shadow-none sideMenuToggler appointment-btn">Send Message<i
                                             class="fa-regular fa-arrow-right ms-2"></i></button>
                                 </div>
                             </div>
@@ -158,8 +171,7 @@ Contact Area
                         </div>
                         <div class="media-body">
                             <h4 class="box-title">Our Office Address</h4>
-                            <span class="contact-info_text"> #303, NKN, R P Business Park <br>Shaikpet, Hyderabad -
-                                500008</span>
+                            <span class="contact-info_text">E41, sector 3 noida 201310</span>
                         </div>
                     </div>
                 </div>
@@ -171,7 +183,7 @@ Contact Area
                         <div class="media-body">
                             <h4 class="box-title">Call Us Anytime</h4>
                             <span class="contact-info_text">
-                                <a href="tel:+65485965789">+91 95154 21414</a>
+                                <a href="tel:+65485965789">+91 93105 21239</a>
 
                             </span>
                         </div>
@@ -185,7 +197,7 @@ Contact Area
                         <div class="media-body">
                             <h4 class="box-title">Send An Email</h4>
                             <span class="contact-info_text">
-                                <a href="mailto:info@buildyourcode.in">info@buildyourcode.in</a>
+                                <a href="mailto:info@buildyourcode.in">info@fraxxra.com</a>
 
                             </span>
                         </div>
@@ -227,11 +239,15 @@ Contact Area
                             </div>
                             <div class="form-group col-md-6">
                                 <select name="subject" id="subject" class="form-select">
-                                    <option value="" disabled selected hidden>Select Subject</option>
-                                    <option value="Web Development">Web Development</option>
-                                    <option value="Brand Marketing">Brand Marketing</option>
-                                    <option value="UI/UX Designing">UI/UX Designing</option>
-                                    <option value="Digital Marketing">Digital Marketing</option>
+                                  <option value="" disabled="" selected="" hidden="">Select Subject</option>
+                                        <option value="Ux/UI Designing">UI/UX Designing</option>
+                                        <option value="Web Development">Web Development</option>
+                                        <option value="Mobile App Development">Mobile App Development</option>
+                                        <option value="Digital Marketing">Digital Marketing</option>
+                                        <option value="Branding">Branding</option>
+                                        <option value="Secuirty Services">Secuirty Services</option>
+                                        <option value="Cloud Services">Cloud Services</option>
+                                        <option value="Others">Others</option>
                                 </select>
                                 <!-- <i class="fal fa-chevron-down"></i> -->
                             </div>
@@ -246,7 +262,7 @@ Contact Area
                                 <i class="fal fa-comment"></i>
                             </div>
                             <div class="form-btn text-xl-start text-center col-12">
-                                <button class="th-btn">Send Message<i
+                                <button class="btn shadow-none sideMenuToggler appointment-btn">Send Message<i
                                         class="fa-regular fa-arrow-right ms-2"></i></button>
                             </div>
                         </div>

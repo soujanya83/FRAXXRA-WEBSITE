@@ -109,7 +109,7 @@
                                     <i class="fal fa-comment"></i>
                                 </div>
                                 <div class="form-btn text-xl-start text-center col-12">
-                                    <button class="th-btn">Send Message<i
+                                    <button class="btn shadow-none sideMenuToggler appointment-btn">Send Message<i
                                             class="fa-regular fa-arrow-right ms-2"></i></button>
                                 </div>
                             </div>
@@ -165,19 +165,7 @@ Hero Area
                         cutting-edge solutions that redefine possibilities. Explore a world where technology meets
                         imagination, where data transforms into insights, and where your business evolves into a
                         seamless digital experience."</p>
-                    <div class="btn-group">
-                        <a href="about" class="th-btn">ABOUT US<i class="fa-regular fa-arrow-right ms-2"></i></a>
-                        {{-- <div class="call-btn">
-                            <a href="https://www.youtube.com/watch?v=wPdXbdYc-EE" class="play-btn popup-video">
-                                <i class="fas fa-play"></i>
-                            </a>
-                            <div class="media-body">
-                                <a href="https://www.youtube.com/watch?v=wPdXbdYc-EE"
-                                    class="btn-title popup-video">Watch Our Story</a>
-                                <span class="btn-text">Call Now</span>
-                            </div>
-                        </div> --}}
-                    </div>
+
                 </div>
             </div>
 

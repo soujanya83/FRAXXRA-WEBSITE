@@ -7,9 +7,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>"BYC IT Solutions Private Limited: Transforming Ideas into Digital Excellence!"</title>
+    <title>Fraxxra Tech Pvt. Ltd.</title>
     <meta name="author" content="BuildYourCode IT Solutions Private Limited">
-    <meta name="description" content="BYC IT Solutions: Innovative app and web development to transform your business.">
+    <meta name="description" content="FRAXXRA IT Solutions: Innovative app and web development to transform your business.">
     <meta name="keywords"
         content="UX/UI Designing, Web Development, App Development, Branding, Digital Marketing, Security Services, Cloud Services, Mobile Development, Frontend Development, Backend Development, Graphic Design, Software Development, E-commerce Solutions, SEO Services, Content Marketing, Social Media Marketing, Data Analytics, Cybersecurity, IT Consulting, Cloud Computing, Mobile App Design, Responsive Design, API Integration, Branding Solutions, Digital Transformation ">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -18,10 +18,10 @@
 
     <!---Favicons - Place favicon.ico in the root directory -->
     <link rel="canonical" href="index" />
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/logo-small_updated.png">
     <link rel="manifest" href="assets/img/favicons/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="assets/img/favicons/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="assets/img/logo-small_updated.png">
     <meta name="theme-color" content="#ffffff">
 
     <!--==============================

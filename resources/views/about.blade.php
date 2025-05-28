@@ -84,7 +84,7 @@
                                 </div>
                                 <div class="form-group col-md-12">
                                     <select name="subject" id="subject" class="form-select dcd3d3">
-                                        <option value="" disabled="" selected="" hidden="">Select Subject</option>
+                                    <option value="" disabled="" selected="" hidden="">Select Subject</option>
                                         <option value="Ux/UI Designing">UI/UX Designing</option>
                                         <option value="Web Development">Web Development</option>
                                         <option value="Mobile App Development">Mobile App Development</option>
@@ -107,7 +107,7 @@
                                     <i class="fal fa-comment"></i>
                                 </div>
                                 <div class="form-btn text-xl-start text-center col-12">
-                                    <button class="th-btn">Send Message<i
+                                    <button class="btn shadow-none sideMenuToggler appointment-btn">Send Message<i
                                             class="fa-regular fa-arrow-right ms-2"></i></button>
                                 </div>
                             </div>
@@ -176,9 +176,8 @@
                         <div class="title-area mb-35">
                             <span class="sub-title">
                                 <div class="icon-masking me-2">
-                                    <span class="mask-icon"
-                                        data-mask-src="assets/img/theme-img/title_shape_1.svg"></span>
-                                    <img src="assets/img/favicons/favicon.png" alt="shapef">
+
+                                    <img src="assets/img/logo-small_updated.png" style="width:25px;height:25px" alt="shapef">
                                 </div>About Us
                             </span>
                             <h2 class="sec-title">About Fraxxra Tech Pvt Ltd</span></h2>
@@ -207,19 +206,7 @@
                                 </div>
                             </div>
                         </div> --}}
-                        <div class="btn-group">
-                            <a href="about" class="th-btn">DISCOVER MORE<i
-                                    class="fa-regular fa-arrow-right ms-2"></i></a>
-                            {{-- <div class="call-btn">
-                                <div class="play-btn">
-                                    <i class="fas fa-phone"></i>
-                                </div>
-                                <div class="media-body">
-                                    <span class="btn-text">Call Us On:</span>
-                                    <a href="tel:+19088000393" class="btn-title">+91 95154 21414</a>
-                                </div>
-                            </div> --}}
-                        </div>
+
                     </div>
                 </div>
             </div>
