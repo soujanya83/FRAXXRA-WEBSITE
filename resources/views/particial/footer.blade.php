@@ -1,4 +1,4 @@
-  <footer class="footer-wrapper footer-layout1" style="background-color:#73c6b6">
+  <footer class="footer-wrapper footer-layout1" style="background-color:#73c6b6 ">
         {{-- <div class="footer-top">
             <div class="logo-bg"></div>
             <div class="container">

@@ -4,54 +4,6 @@
 
 
 
-
-    <!--[if lte IE 9]>
-    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
-
-
-
-    <!--********************************
-   		Code Start From Here
-	******************************** -->
-
-    <div class="cursor"></div>
-    <div class="cursor2"></div>
-
-
-    <!--==============================
-    Preloader
-  ==============================-->
-    <!-- <div id="preloader" class="preloader ">
-    <button class="th-btn th-radius preloaderCls">Cancel Preloader </button>
-    <div id="loader" class="th-preloader">
-        <div class="animation-preloader">
-            <div class="txt-loading">
-                <a class="icon-masking" href="index"><span data-mask-src="assets/img/logo-small-updated"  width="250px" class="mask-icon"></span><img src="assets/img/logo-small_updated.png"  width="250px"  alt="BYC"></a>
-                 <span preloader-text="W" class="characters">W</span>
-
-                <span preloader-text="E" class="characters">E</span>
-
-                <span preloader-text="B" class="characters">B</span>
-
-                <span preloader-text="T" class="characters">T</span>
-
-                <span preloader-text="E" class="characters">E</span>
-
-                <span preloader-text="C" class="characters">C</span>
-
-                <span preloader-text="K" class="characters">K</span>
-            </div>
-        </div>
-    </div>
-</div>  -->
-
-    <!--==============================
-    Sidemenu
- ============================== -->
-
-
-
     <div class="sidemenu-wrapper background-image">
         <div class="sidemenu-content">
             <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
@@ -130,29 +82,6 @@
 
     @include('particial.nav')
 
-
-
-
-    <!-----
-    Mobile Menu
-       ============================== -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!--==============================
-Hero Area
-==============================-->
 
     <div class="container">
         <div class="row">
@@ -237,120 +166,7 @@ Hero Area
             <img src="assets/img/hero/hero_shape_1_3.svg" alt="shape3">
         </div>
     </div>
-    <!--======== / Hero Section ========-->
-    <!--==============================
-Feature Area
-==============================-->
-    {{-- <section class="about-sec-v4 space-bottom" id="about-sec">
-        <div class="container">
-            <div class="row gy-4 justify-content-center">
-                <div class="col-xl-4 col-md-6">
-                    <div class="feature-card">
-                        <div class="shape-icon">
-                            <img src="assets/img/icon/feature_card_1.png" alt="icon1">
-                        </div>
-                        <h3 class="box-title">Data Management Service</h3>
-                        <p class="feature-card_text">Data management services involve organizing, storing, and securing
-                            data for efficient access and analysis.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="feature-card">
-                        <div class="shape-icon">
-                            <img src="assets/img/icon/feature_card_2.png" alt="icon2">
-                        </div>
-                        <h3 class="box-title">IT Strategy & Consultancy</h3>
-                        <p class="feature-card_text">IT strategy and consultancy help businesses optimize technology to
-                            drive growth and innovation.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="feature-card">
-                        <div class="shape-icon">
-                            <img src="assets/img/icon/feature_card_3.png" alt="icon3">
-                        </div>
-                        <h3 class="box-title">World Class Support</h3>
-                        <p class="feature-card_text">World-class support delivers exceptional, reliable assistance to
-                            meet customer needs efficiently and effectively.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container space-top">
-            <div class="row align-items-center">
-                <div class="col-md-4">
-                    <div class="testi-block-area01 p-1 w-100 ">
-                        <div class="swiper th-slider has-shadow testi-block-slide"
-                            data-slider-options='{"loop":true,"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"1"},"768":{"slidesPerView":"1"},"992":{"slidesPerView":"1"},"1200":{"slidesPerView":"1"}}}'>
-                            <div class="swiper-wrapper">
 
-                                <div class="swiper-slide">
-                                    <div class="testi-block">
-                                        <img src="assets/img/sliders/7.png" alt="app1" />
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testi-block">
-                                        <img src="assets/img/sliders/8.png" alt="app2" />
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testi-block">
-                                        <img src="assets/img/sliders/9.png" alt="app3" />
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testi-block">
-                                        <img src="assets/img/sliders/10.png" alt="app4" />
-                                    </div>
-                                </div>
-
-
-
-
-                                <div class="slider-pagination"></div>
-                            </div>
-                            <div class="testi-block-quote">
-                                <img src="assets/img/icon/quote_3d.png" alt="quote">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-
-                <div class="col-lg-7 text-lg-start text-center">
-                    <div class="ps-xxl-5">
-                        <div class="title-area mb-35">
-                            <span class="sub-title">About Company</span>
-                            <p class="sec_para">We've Been Thriving for 10 Years.</p>
-                        </div>
-                        <p class="mt-n2 mb-25">For over a decade, <span class="red_bold">BYC IT Solutions </span> has
-                            been a trusted partner in delivering innovative, reliable, and cutting-edge IT services. Our
-                            journey began with a vision to revolutionize the tech industry by providing exceptional
-                            solutions that drive growth, efficiency, and success for our clients.</p>
-                        <div class="checklist style4 mb-40 list-center">
-                            <ul>
-                                <li><img class="icon_bg" src="assets/img/icon/check_1.png" alt="icon"> Dramatically
-                                    re-engineer value added IT systems via mission</li>
-                                <li><img src="assets/img/icon/check_1.png" alt="icon-img"> Website & Mobile application
-                                    design & Development</li>
-                                <li><img src="assets/img/icon/check_1.png" alt="icon-img1"> Professional User Experince
-                                    & Interface researching</li>
-                            </ul>
-                        </div>
-                        <a href="about" class="th-btn">ABOUT MORE<i class="fa-regular fa-arrow-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
-    <!--==============================
-Service Area
-==============================-->
     <section class="" id="service-sec">
         <div class="round-container gr-bg3 space">
             <div class="container">
@@ -509,9 +325,7 @@ Service Area
             </div>
         </div>
     </section>
-    <!--==============================
-Feature Area
-==============================-->
+
     <div class="">
         <div class="container space">
             <div class="row align-items-center flex-row-reverse">

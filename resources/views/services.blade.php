@@ -3,53 +3,6 @@
 <body>
 
 
-
-
-    <!--[if lte IE 9]>
-    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
-
-
-
-    <!--********************************
-   		Code Start From Here
-	******************************** -->
-
-    <div class="cursor"></div>
-    <div class="cursor2"></div>
-
-
-    <!--==============================
-    Preloader
-  ==============================-->
-    <!-- <div id="preloader" class="preloader ">
-    <button class="th-btn th-radius preloaderCls">Cancel Preloader </button>
-    <div id="loader" class="th-preloader">
-        <div class="animation-preloader">
-            <div class="txt-loading">
-                <a class="icon-masking" href="index"><span data-mask-src="assets/img/logo-small-updated"  width="250px" class="mask-icon"></span><img src="assets/img/logo-small_updated.png"  width="250px"  alt="BYC"></a>
-                 <span preloader-text="W" class="characters">W</span>
-
-                <span preloader-text="E" class="characters">E</span>
-
-                <span preloader-text="B" class="characters">B</span>
-
-                <span preloader-text="T" class="characters">T</span>
-
-                <span preloader-text="E" class="characters">E</span>
-
-                <span preloader-text="C" class="characters">C</span>
-
-                <span preloader-text="K" class="characters">K</span>
-            </div>
-        </div>
-    </div>
-</div>  -->
-
-    <!--==============================<
-Sidemenu--->
-
-
     <div class="sidemenu-wrapper background-image">
         <div class="sidemenu-content">
             <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
