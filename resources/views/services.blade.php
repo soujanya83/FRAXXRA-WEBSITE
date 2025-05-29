@@ -440,12 +440,12 @@ Sidemenu--->
                 <div class="row">
                     <div class="col-md-6">
 
-                        <img class="head_pic w-100" src="assets/images/web-3.jpg" alt="Web_img3">
+                        <img class="head_pic w-100" src="assets/images/ux1.jpg" alt="Web_img3">
 
 
                     </div>
                     <div class="col-md-6">
-                        <h2 class="web_head"><span class="web_1">AR/VR Solutions:</span> Transforming Experiences
+                        <h2 class="web_head"><span class="web_1">AR/VR Solutions</span> Transforming Experiences
                             Through Augmented and Virtual Reality
                         </h2>
                         <p class="web_para">Immerse your audience in captivating experiences with our Augmented Reality
@@ -474,12 +474,12 @@ Sidemenu--->
                 <div class="row">
                     <div class="col-md-6">
 
-                        <img class="head_pic w-100" src="assets/images/web-3.jpg" alt="Web_img3">
+                        <img class="head_pic w-100" src="assets/images/digital-3.jpg" alt="Web_img3">
 
 
                     </div>
                     <div class="col-md-6">
-                        <h2 class="web_head"><span class="web_1">XR Technologies: Merging Realities for Unparalleled
+                        <h2 class="web_head"><span class="web_1">XR Technologies </span> Realities for Unparalleled
                                 Experiences
                         </h2>
                         <p class="web_para">Fraxxra Tech explores the vast potential of extended reality (XR)
@@ -507,12 +507,12 @@ Sidemenu--->
                 <div class="row">
                     <div class="col-md-6">
 
-                        <img class="head_pic w-100" src="assets/images/web-3.jpg" alt="Web_img3">
+                        <img class="head_pic w-100" src="assets/images/sketch2.jpg"  alt="Web_img3">
 
 
                     </div>
                     <div class="col-md-6">
-                        <h2 class="web_head"><span class="web_1">Metaverse Development: Crafting Interconnected Digital
+                        <h2 class="web_head"><span class="web_1">Metaverse Development </span> Crafting Interconnected Digital
                                 Universes
                         </h2>
                         <p class="web_para">Embark on a journey into the Metaverse with Fraxxra Tech. Our Metaverse

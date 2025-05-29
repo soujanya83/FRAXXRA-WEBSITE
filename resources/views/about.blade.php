@@ -270,14 +270,14 @@
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/img/normal/why_3_1.png" alt="Why">
+                            <img src="assets/images/adx1.jpg" alt="Why">
                         </div>
-                        <div class="shape1">
+                        {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
                         </div>
                         <div class="shape2">
                             <img src="assets/img/normal/why_3_3.png" alt="About">
-                        </div>
+                        </div> --}}
                         <div class="color-animate"></div>
                     </div>
                 </div>
@@ -311,14 +311,14 @@ Team Area
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/img/normal/why_3_1.png" alt="Why">
+                            <img src="assets/images/digital_1.jpg" alt="Why">
                         </div>
-                        <div class="shape1">
+                        {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
                         </div>
                         <div class="shape2">
                             <img src="assets/img/normal/why_3_3.png" alt="About">
-                        </div>
+                        </div> --}}
                         <div class="color-animate"></div>
                     </div>
                 </div>
@@ -353,7 +353,7 @@ Team Area
                 <div class="col-xl-6 mb-30 mb-xl-0">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="assets/images/web-3.jpg" alt="About1">
+                            <img src="assets/images/digital-2.jpg" alt="About1">
                         </div>
                         <div class="shape1">
                             <img src="assets/img/normal/about_shape_1.png" alt="shape_2">
@@ -400,14 +400,14 @@ Team Area
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/img/normal/why_3_1.png" alt="Why">
+                            <img src="assets/images/illus1.jpg" alt="Why">
                         </div>
-                        <div class="shape1">
+                        {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
                         </div>
                         <div class="shape2">
                             <img src="assets/img/normal/why_3_3.png" alt="About">
-                        </div>
+                        </div> --}}
                         <div class="color-animate"></div>
                     </div>
                 </div>
@@ -443,14 +443,14 @@ Team Area
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/img/normal/why_3_1.png" alt="Why">
+                            <img src="assets/images/illus2.jpg" alt="Why">
                         </div>
-                        <div class="shape1">
+                        {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
                         </div>
                         <div class="shape2">
                             <img src="assets/img/normal/why_3_3.png" alt="About">
-                        </div>
+                        </div> --}}
                         <div class="color-animate"></div>
                     </div>
                 </div>

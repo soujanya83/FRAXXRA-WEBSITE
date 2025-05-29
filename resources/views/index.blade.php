@@ -1,4 +1,5 @@
 @include('particial.index_header')
+
 <body class="gradient-body">
 
 
@@ -132,7 +133,7 @@
 
 
 
-@include('particial.nav')
+    @include('particial.nav')
 
 
 

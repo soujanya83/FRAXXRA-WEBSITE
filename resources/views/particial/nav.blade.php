@@ -164,7 +164,7 @@
     <div class="sticky-wrapper" >
         <!-- Main Menu Area -->
         <div class="menu-area">
-            <div class="" style="background-color: aqua;width:100%">
+            <div class="" style="background-color: #69ebea;width:100%">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-auto">
                         <div class="header-logo">

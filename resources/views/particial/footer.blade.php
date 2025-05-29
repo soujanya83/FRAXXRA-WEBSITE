@@ -1,4 +1,4 @@
-  <footer class="footer-wrapper footer-layout1">
+  <footer class="footer-wrapper footer-layout1" style="background-color:#69ebea">
         {{-- <div class="footer-top">
             <div class="logo-bg"></div>
             <div class="container">
@@ -52,9 +52,9 @@
                 <div class="row justify-content-between">
                     <div class="col-md-6 col-xxl-4 col-xl-4">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">About Company</h3>
+                            <h3 class="widget_title" style="color:black">About Company</h3>
                             <div class="th-widget-about">
-                                <p class="about-text">At Fraxxra Tech, we pioneer innovation, driving the digital future with cutting-edge solutions that redefine possibilities. Explore a world where technology meets imagination, where data transforms into insights, and where your business evolves into a seamless digital experience.</p>
+                                <p class="" style="color:black">At Fraxxra Tech, we pioneer innovation, driving the digital future with cutting-edge solutions that redefine possibilities. Explore a world where technology meets imagination, where data transforms into insights, and where your business evolves into a seamless digital experience.</p>
                                 {{-- <div class="th-social">
                                     <a href="https://www.facebook.com/profile.php?id=61568923097821"><i
                                             class="fab fa-facebook-f"></i></a>
@@ -73,27 +73,27 @@
                     </div>
                     <div class="col-md-6 col-xl-auto">
                         <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title">Quick Links</h3>
+                            <h3 class="widget_title" style="color:black">Quick Links</h3>
                             <div class="menu-all-pages-container">
-                                <ul class="menu">
-                                    <li><a href="about">About Us</a></li>
-                                    <li><a href="">Branding</a></li>
-                                    <li><a href="">Our Projects</a></li>
-                                    <li><a href="">Help & FAQs</a></li>
-                                    <li><a href="contact">Contact Us</a></li>
+                                <ul class="menu" style="color:black">
+                                    <li><a href="about" style="color:black">About Us</a></li>
+                                    <li><a href=""style="color:black">Branding</a></li>
+                                    <li><a href=""style="color:black">Our Projects</a></li>
+                                    <li><a href=""style="color:black">Help & FAQs</a></li>
+                                    <li><a href="contact"style="color:black">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-xl-auto">
                         <div class="widget widget_nav_menu footer-widget">
-                            <h3 class="widget_title">IT SERVICES</h3>
+                            <h3 class="widget_title" style="color:black">IT SERVICES</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="">Web Development</a></li>
-                                    <li><a href="">Mobile Development</a></li>
-                                    <li><a href="">Project Management</a></li>
-                                    <li><a href="">UI/UX Design</a></li>
+                                    <li><a href=""style="color:black">Web Development</a></li>
+                                    <li><a href=""style="color:black">Mobile Development</a></li>
+                                    <li><a href=""style="color:black">Project Management</a></li>
+                                    <li><a href=""style="color:black">UI/UX Design</a></li>
                                 </ul>
                             </div>
                         </div>

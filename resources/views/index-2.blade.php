@@ -517,14 +517,14 @@ Feature Area
             <div class="row align-items-center flex-row-reverse">
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
-                        <div class="img1">
-                            <img src="assets/img/normal/why_3_1.png" alt="Why">
+                         <div class="img1">
+                            <img src="assets/img/normal/faq_2_1.png" alt="Faq">
                         </div>
                         <div class="shape1">
-                            <img src="assets/img/normal/why_3_2.png" alt="About1">
+                            <img src="assets/img/normal/faq_2_2.png" alt="Aboutfaq">
                         </div>
                         <div class="shape2">
-                            <img src="assets/img/normal/why_3_3.png" alt="About">
+                            <img src="assets/img/normal/faq_2_3.png" alt="Aboutfaq2">
                         </div>
                         <div class="color-animate"></div>
                     </div>
@@ -576,7 +576,7 @@ Feature Area
                             <img src="assets/img/normal/why_3_1.png" alt="Why">
                         </div>
                         <div class="shape1">
-                            <img src="assets/img/normal/why_3_2.png" alt="About1">
+                            {{-- <img src="assets/images/digital_1.jpg" alt="About1"> --}}
                         </div>
                         <div class="shape2">
                             <img src="assets/img/normal/why_3_3.png" alt="About">
@@ -628,14 +628,14 @@ Feature Area
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/img/normal/why_3_1.png" alt="Why">
+                            <img src="assets/images/canva3.png" alt="Why">
                         </div>
-                        <div class="shape1">
+                        {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
                         </div>
                         <div class="shape2">
-                            <img src="assets/img/normal/why_3_3.png" alt="About">
-                        </div>
+                            <img src="assets/img/normal/faq_2_3.png" alt="About">
+                        </div> --}}
                         <div class="color-animate"></div>
                     </div>
                 </div>
