@@ -32,6 +32,10 @@
     width: 100%;
     z-index: 9999;
 }
+
+body {
+    padding-top: 120px; /* Adjust based on header height */
+}
 </style>
 
 <div class="th-menu-wrapper">
