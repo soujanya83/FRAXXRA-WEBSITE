@@ -298,7 +298,7 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-md-6 mt-4">
-                <img class="head_pic w-100" src="assets/images/web-1.jpg" alt="web_img1">
+                <img class="head_pic w-100" src="assets/images/vue2.jpg" style="height:600px" alt="web_img1">
             </div>
             <div class="col-md-6">
                 <h2 class="web_head"><span class="web_1">Business Intelligence </span> Unlocking Insights for Informed
@@ -351,7 +351,7 @@
                     </div>
 
                     <div class="col-md-6 mt-4 ">
-                        <img class="head_pic w-100" src="assets/images/web-2.jpg" alt="Web_img2">
+                        <img class="head_pic w-100" src="assets/images/tadquest-7.png" style="height:600px" alt="Web_img2">
                     </div>
                 </div>
             </div>
@@ -359,7 +359,7 @@
                 <div class="row">
                     <div class="col-md-6">
 
-                        <img class="head_pic w-100" src="assets/images/web-3.jpg" alt="Web_img3">
+                        <img class="head_pic w-100" src="assets/images/tadquest-5.png" alt="Web_img3" style="height: 600px;">
 
 
                     </div>
@@ -393,7 +393,7 @@
                 <div class="row">
                     <div class="col-md-6">
 
-                        <img class="head_pic w-100" src="assets/images/ux1.jpg" alt="Web_img3">
+                        <img class="head_pic w-100" src="assets/images/sqlit1.jpg" style="height:600px" alt="Web_img3">
 
 
                     </div>
@@ -427,7 +427,7 @@
                 <div class="row">
                     <div class="col-md-6">
 
-                        <img class="head_pic w-100" src="assets/images/digital-3.jpg" alt="Web_img3">
+                        <img class="head_pic w-100" src="assets/images/tail1.webp" alt="Web_img3">
 
 
                     </div>

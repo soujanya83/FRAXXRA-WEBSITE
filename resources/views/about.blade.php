@@ -112,13 +112,13 @@
                 <div class="col-xl-6 mb-30 mb-xl-0">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="assets/images/web-3.jpg" alt="About1">
+                            <img src="assets/images/tadquest.png" alt="About1">
                         </div>
                         <div class="shape1">
                             <img src="assets/img/normal/about_shape_1.png" alt="shape_2">
                         </div>
                         <div class="year-counter">
-                            <h3 class="year-counter_number"><span class="counter-number">10</span></h3>
+                            <h3 class="year-counter_number"><span class="counter-number">4</span></h3>
                             <p class="year-counter_text">Years Experience</p>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/images/adx1.jpg" alt="Why">
+                            <img src="assets/images/tadquest-3.jpg" alt="Why">
                         </div>
                         {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
@@ -263,7 +263,7 @@ Team Area
                 <div class="col-lg-6 mb-30 mb-lg-0">
                     <div class="img-box7">
                         <div class="img1">
-                            <img src="assets/images/digital_1.jpg" alt="Why">
+                            <img src="assets/images/tadquest-4.png" alt="Why">
                         </div>
                         {{-- <div class="shape1">
                             <img src="assets/img/normal/why_3_2.png" alt="About1">
@@ -305,13 +305,13 @@ Team Area
                 <div class="col-xl-6 mb-30 mb-xl-0">
                     <div class="img-box1">
                         <div class="img1">
-                            <img src="assets/images/digital-2.jpg" alt="About1">
+                            <img src="assets/images/tadquest-2.png" alt="About1">
                         </div>
                         <div class="shape1">
                             <img src="assets/img/normal/about_shape_1.png" alt="shape_2">
                         </div>
                         <div class="year-counter">
-                            <h3 class="year-counter_number"><span class="counter-number">10</span></h3>
+                            <h3 class="year-counter_number"><span class="counter-number">4</span></h3>
                             <p class="year-counter_text">Years Experience</p>
                         </div>
                     </div>

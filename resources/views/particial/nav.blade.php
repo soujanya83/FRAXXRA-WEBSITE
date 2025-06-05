@@ -36,6 +36,15 @@
 body {
     padding-top: 120px; /* Adjust based on header height */
 }
+
+
+
+
+.main-menu a {
+
+    font-size: 18px;
+    margin-right: 40px;
+}
 </style>
 
 <div class="th-menu-wrapper">
@@ -167,14 +176,13 @@ body {
                     </div>
                     <div class="col-auto">
                         <nav class="main-menu d-none d-lg-inline-block">
-                            <ul>
-                                <li><a href="{{ route('home_page') }}">Home</a></li>
-                                <li><a href="{{ route('about_page') }}">About Us</a></li>
-                                <li><a href="{{ route('services_page') }}">Services</a></li>
-                                <li>
-                                    <a href="{{ route('contact_page')}}">Contact</a>
-                                </li>
-                            </ul>
+                        <ul class="nav-menu">
+    <li><a href="{{ route('home_page') }}">Home</a></li>
+    <li><a href="{{ route('about_page') }}">About Us</a></li>
+    <li><a href="{{ route('services_page') }}">Services</a></li>
+    <li><a href="{{ route('contact_page') }}">Contact</a></li>
+</ul>
+
                         </nav>
                         <div class="header-button">
                             <button type="button" class="th-menu-toggle d-inline-block d-lg-none"><i
