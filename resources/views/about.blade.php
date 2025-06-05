@@ -89,10 +89,10 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/breadcumb-bg.jpg">
+    <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/cta_bg_2.jpg">
         <div class="container">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">About Us</h1>
+                <h1 class="breadcumb-title"> &nbsp;&nbsp;&nbsp;&nbsp;About Us</h1>
                 <ul class="breadcumb-menu">
                     <li><a href="index-2">Home</a></li>
                     <li>About Us</li>
